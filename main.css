@@ -16,8 +16,3 @@ body {
 .jumbotron h1 {
   font-size: 50px;
 }
-
-section row img {
-  max-height: 100%;
-  width: 50%;
-}
