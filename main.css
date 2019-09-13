@@ -2,6 +2,10 @@ body {
   font-family: 'Coustard'
 }
 
+container {
+  margin: 20px;
+}
+
 footer {
   text-align: center;
 }
@@ -30,8 +34,4 @@ header {
 li {
   font-size: 2rem;
   margin-bottom: 25px;
-}
-
-row {
-  margin: 20px;
 }
