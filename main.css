@@ -5,6 +5,5 @@ body {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(https://images.pexels.com/photos/1661004/pexels-photo-
-    1661004.jpeg?cs=srgb&dl=adults-analysis-brainstorming-1661004.jpg&fm=jpg);
+  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg);
 }
