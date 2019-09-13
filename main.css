@@ -3,7 +3,8 @@ body {
 }
 
 row {
-  margin: 20px;
+  border: 0px;
+  margin-bottom: 20px;
 }
 
 footer {
